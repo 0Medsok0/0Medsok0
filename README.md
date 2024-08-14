@@ -88,6 +88,6 @@ I am currently studying Windows and Network Administration
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=0Medsok0&theme=THEME_NAME=dracula&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=0Medsok0&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" /></div>  
 <br/>  
 <br/>  
