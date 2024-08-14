@@ -109,10 +109,10 @@ I am currently studying Windows and Network Administration
 
 <br/>  
 
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=0Medsok0&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" /></div>  
 <br/>  
 <br/>  
 
+![snake gif](https://github.com/0Medsok0/0Medsok0/blob/output/github-contribution-grid-snake-dark.svg)
 
