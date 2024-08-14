@@ -14,7 +14,11 @@ I am currently studying Windows and Network Administration
 ❓ Ask me about everything related to Python, Networking, Linux and related technologies
 
 ⚡ Fun fact: I use tabs instead of spaces
-  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=0Medsok0&&style=flat-square" align="center" />
+</div>  
+<br/>  
 
 <br/>  
 
@@ -77,8 +81,7 @@ I am currently studying Windows and Network Administration
 <a href="https://github.com/0Medsok0" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
 <br/>  
 
@@ -86,11 +89,4 @@ I am currently studying Windows and Network Administration
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=0Medsok0&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
-<br/>  
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=0Medsok0&&style=flat-square" align="center" />
-</div>  
 <br/>  
