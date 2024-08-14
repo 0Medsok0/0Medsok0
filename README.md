@@ -114,5 +114,4 @@ I am currently studying Windows and Network Administration
 <br/>  
 <br/>  
 
-![snake gif](https://github.com/0Medsok0/0Medsok0/blob/output/github-contribution-grid-snake-dark.svg)
 
