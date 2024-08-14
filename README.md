@@ -3,19 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Ivan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I am Ivan, a full-stack freelance developer, who has been working remotely since 2019. 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator]()  
-  
+🔭 I am currently working on the Github profiler(https://github.com/0Medsok0/business-card-website)
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+I am currently studying Windows and Network Administration
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+❓ Ask me about everything related to Python, Networking, Linux and related technologies
 
-- ⚡ Fun fact: I use tabs over spaces  
+⚡ Fun fact: I use tabs instead of spaces
   
 
 <br/>  
