@@ -115,6 +115,4 @@ I am currently studying Windows and Network Administration
 <br/>  
 <br/>  
 
-<p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
+
