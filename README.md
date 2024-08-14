@@ -8,5 +8,5 @@
 </h1>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWwxdmh6MGk0cTRkaWNwODFtdTRoZGoxdTIyeHZwaTcyYzJ6OGJmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" width="200" height="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW8zZGNzd2Fnc2d4anAyZW9nZGg2ZjQ4eGM4aGV5a2l3dXE3cTRqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="200"/>
 </div>
