@@ -23,10 +23,33 @@ I am currently studying Windows and Network Administration
 
 <br/>  
 
+### Course
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
+| Name | Organization | Link to view the certificate |
+|-----|-----|-----|
+| Веб-разработка для начинающих: HTML и CSS | Stepic.org | url(https://stepik.org/cert/1395820) |
+| Курс молодого бойца в IT| Stepic.org | url(https://stepik.org/cert/1397357) | 
+| Программирование на Python| Stepic.org | url(https://stepik.org/cert/1400613) |
+| Поколение Python": курс для начинающих | Stepic.org | url(https://stepik.org/cert/1437829) |
+| Цифровая трансформация. Быстрый старт | Stepic.org | url(https://stepik.org/cert/1438310) |
+| Эпоха цифрового развития: Основы цифровой трансформации | Stepic.org | url(https://stepik.org/cert/1489019) |
+| Big Data и Data Science: начни погружение с нуля | Stepic.org | url(https://stepik.org/cert/1501136) |
+| Введение в Linux | Stepic.org | url(https://stepik.org/cert/2350032) |
+| Марафон данных: первое знакомство с SQL и Python | Stepic.org | url(https://stepik.org/cert/2363250) |
+| Введение в программирование (C++) | Stepic.org | url(https://stepik.org/cert/2363568) |
+| Интерактивный тренажер по SQL | Stepic.org | url(https://stepik.org/cert/2363973) |
+| Web-технологии | Stepic.org | url(https://stepik.org/cert/2364362) |
+| Постановка задачи на разработку ПО | Stepic.org | url(https://stepik.org/cert/2364413) |
+| Selenium на Python" от Алексея Коледачкина | Stepic.org | url(https://stepik.org/cert/2369728) |
+| Docker для начинающих + практический опыт | Stepic.org | url(https://stepik.org/cert/2369732) |
+| Вселенная тестирования, или Как стать тестировщиком | Stepic.org | url(https://stepik.org/cert/2369747) |
+| Разработка для KasperskyOS | Stepic.org | url(https://stepik.org/cert/2369757) |
+| Введение в сетевые технологии | Stepic.org | url(https://stepik.org/cert/2369778) |
+| Цифровая гигиена | Stepic.org | url(https://stepik.org/cert/2369815) |
+| Математика в кибербезопасности | Stepic.org | url(https://stepik.org/cert/2370514) |
+| Операционные системы. МНМЦ СПбГУ | Stepic.org | url(https://stepik.org/cert/2370546) |
+| Операционные системы | Stepic.org | url(https://stepik.org/cert/2370550) |
+| Основы работы в консоли Linux, настройка сетевых служб (кластер)| Stepic.org | url(https://stepik.org/cert/2375597) |
 
 
 ### Frontend  
@@ -91,3 +114,7 @@ I am currently studying Windows and Network Administration
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=0Medsok0&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" /></div>  
 <br/>  
 <br/>  
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
