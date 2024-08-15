@@ -8,13 +8,14 @@
 ### <div align="center">I am Ivan, a full-stack freelance developer, who has been working remotely since 2019. 🚀</div>  
   
 
-🔭 I am currently working on the Github profiler(https://github.com/0Medsok0/business-card-website)
-
-I am currently studying Windows and Network Administration
+🥷🏼 I am currently studying Windows and Network Administration
 
 ❓ Ask me about everything related to Python, Networking, Linux and related technologies
 
 ⚡ Fun fact: I use tabs instead of spaces
+
+(∩｀-´)⊃━☆ﾟ.*･｡ﾟ Don't be greedy put a star on the repository  
+ 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=0Medsok0&&style=flat-square" align="center" />
