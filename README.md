@@ -52,7 +52,7 @@
 | Операционные системы | Stepic.org | url(https://stepik.org/cert/2370550) |
 | Основы работы в консоли Linux, настройка сетевых служб (кластер)| Stepic.org | url(https://stepik.org/cert/2375597) |
 
-![Codewars](https://github.r2v.ch/codewars?user=Medsok/&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=andreasvogt89&stroke=%23BB432C)
 
 
 ### Frontend  
