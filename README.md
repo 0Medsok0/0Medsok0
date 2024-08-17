@@ -53,12 +53,6 @@
 | Основы работы в консоли Linux, настройка сетевых служб (кластер)| Stepic.org | url(https://stepik.org/cert/2375597) |
 
 
-### Problem solving
-<p align="center" >
-    <a href="https://www.codewars.com/users/Medsok">
-      <img src="https://github.r2v.ch/codewars?user=Medsok" />
-    </a>
-</p>
 
 ### Frontend  
 <div align="center">  
