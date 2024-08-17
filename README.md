@@ -51,11 +51,14 @@
 | Операционные системы. МНМЦ СПбГУ | Stepic.org | url(https://stepik.org/cert/2370546) |
 | Операционные системы | Stepic.org | url(https://stepik.org/cert/2370550) |
 | Основы работы в консоли Linux, настройка сетевых служб (кластер)| Stepic.org | url(https://stepik.org/cert/2375597) |
-<br>
+
+
 ### Problem solving
-<br>
-![Codewars](https://github.r2v.ch/codewars?user=Medsok&stroke=%23BB432C)
-<br>
+<p align="center" >
+    <a href="[LINK TO: WHEN CLICKED](https://www.codewars.com/users/Medsok)">
+      <img src="https://github.r2v.ch/codewars?user=Medsok" />
+    </a>
+</p>
 
 ### Frontend  
 <div align="center">  
