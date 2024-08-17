@@ -55,7 +55,7 @@
 
 ### Problem solving
 <p align="center" >
-    <a href="[LINK TO: WHEN CLICKED](https://www.codewars.com/users/Medsok)">
+    <a href="https://www.codewars.com/users/Medsok">
       <img src="https://github.r2v.ch/codewars?user=Medsok" />
     </a>
 </p>
