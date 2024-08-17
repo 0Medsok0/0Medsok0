@@ -52,9 +52,7 @@
 | Операционные системы | Stepic.org | url(https://stepik.org/cert/2370550) |
 | Основы работы в консоли Linux, настройка сетевых служб (кластер)| Stepic.org | url(https://stepik.org/cert/2375597) |
 
-<div>
-  <a href="https://www.codewars.com/users/Medsok/badges/large" target="_blank"><img alt="Темный значок (большой)" src=url('https://www.codewars.com/users/Medsok/badges/large')></a>
-</div>
+![Codewars](https://github.r2v.ch/codewars?user=Medsok/&stroke=%23BB432C)
 
 
 ### Frontend  
