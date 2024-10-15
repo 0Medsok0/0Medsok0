@@ -117,11 +117,12 @@ Join my community of programmers:
 <a href="https://github.com/0Medsok0" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<br/>
+  
 <object>
-<a href="https://github.com/0Medsok0" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/Contact-me?style=flat&logo=telegram&logoColor=blue&logoSize=48px&labelColor=white&color=%23c8f9&link=https%3A%2F%2Ft.me%2Foksilumbau">
-</a>  
 </object>
+
 </div>
 
 <br/>  
