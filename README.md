@@ -3,7 +3,14 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
+
+# Hello, friend! 👋
+
+# I present for your attention my projects that will change the way you think about the world of programming. 
+
+# If you are here, then you are ready for new discoveries and impressions! 🔍
+
+# I hope that my Github will be useful and interesting for you. 🤗
 
 ### <div align="center">I am Ivan, a full-stack freelance developer, who has been working remotely since 2019. 🚀</div>  
   
