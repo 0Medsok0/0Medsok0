@@ -25,9 +25,10 @@
  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=0Medsok0&&style=flat-square&&style="width: 400px; height: 400px;" align="center" />
-</div>  
-<br/>  
+  <img src="https://komarev.com/ghpvc/?username=0Medsok0&style=flat-square" width="150" height="30" />
+</div>
+<br />
+
 
 <br/>  
 
