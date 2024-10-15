@@ -120,8 +120,9 @@ Join my community of programmers:
 <br/>
   
 <object>
-<img alt="Static Badge" src="https://img.shields.io/badge/Contact-me?style=flat&logo=telegram&logoColor=blue&logoSize=48px&labelColor=white&color=%23c8f9&link=https%3A%2F%2Ft.me%2Foksilumbau">
+src="https://img.shields.io/badge/Contact-me?style=flat&logo=telegram&logoColor=blue&logoSize=48px&labelColor=white&color=%23c8f9&link=https%3A%2F%2Ft.me%2Foksilumbau">
 </object>
+
 
 </div>
 
