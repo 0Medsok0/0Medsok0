@@ -118,7 +118,7 @@ Join my community of programmers:
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a><br/>
 <a href="https://t.me/+G1NMh5-dz_RlMjFi" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/Contact-me?style=flat&logo=telegram&logoColor=blue&logoSize=48px&labelColor=white&color=%23c8f9 style="margin-bottom: 5px;">
+<img alt="Static Badge" src="https://img.shields.io/badge/Contact-me?style=flat&logo=telegram&logoColor=blue&logoSize=48px&labelColor=white&color=%23c8f9&style="margin-bottom: 5px;">
 </a>
 
 <br/>
