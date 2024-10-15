@@ -25,7 +25,7 @@
  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=0Medsok0&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=0Medsok0&&style=flat-square&style="width: 100px; height: 100px;" align="center" />
 </div>  
 <br/>  
 
