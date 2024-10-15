@@ -112,15 +112,14 @@
 ## Connect with me  
 <div align="center">
 <p>
-Hello, friend! 👋
-I present for your attention my projects that will change the way you think about the world of programming. 
-If you are here, then you are ready for new discoveries and impressions! 🔍
-I hope that my Github will be useful and interesting for you. 🤗
 Join my community of programmers:   
 </p>
 <a href="https://github.com/0Medsok0" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://github.com/0Medsok0" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 </div>
 
 <br/>  
